@@ -19,6 +19,14 @@ html,body{
     color: antiquewhite;
     font-size: 32px;
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#83c99d;
+    color: antiquewhite;
+    font-size: 20px;
+}
 .headerlogo{
     height:70px;
     width: auto;
